@@ -699,6 +699,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  flex: 1 1 auto;
 }
 .pictures__item_side {
   -webkit-box-orient: vertical;
