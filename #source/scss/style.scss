@@ -528,6 +528,7 @@ body{
 	}
 	&__item {
 		display: flex;
+		flex: 1 1 auto;
 		&_side {
 			flex-direction: column;
 		}
